@@ -1,5 +1,11 @@
 # @backstage/canon
 
+## 0.2.1-next.1
+
+### Patch Changes
+
+- 5e80f0b: Fix types on the Icon component.
+
 ## 0.2.1-next.0
 
 ### Patch Changes
